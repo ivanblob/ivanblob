@@ -2,7 +2,7 @@
 > nano readme.py
 ```
 
-<img align="left" src="https://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/19/198d32793cd512f0b9cd80e78c84fc294a4d833e_full.jpg" alt="logo.png" width="180" height="180"  /> 
+<img align="left" src="https://i.pinimg.com/originals/29/9c/f8/299cf8fd6af76fbc3ca1205f81e477dc.jpg" alt="logo.png" width="180" height="180"  /> 
 
 ```py
 from github import readme
